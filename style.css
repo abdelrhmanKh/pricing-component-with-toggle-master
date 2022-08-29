@@ -317,6 +317,10 @@ h1 {
     .master {
         grid-area: 2 / 3 / 4 / 4;
     }
+
+    .card {
+        box-shadow: 0px 5px 20px 0px #dedede;
+    }
 }
 
 
